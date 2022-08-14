@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "report",
+      "type": "properties.ReportProperties",
+      "sourceType": "properties.ReportProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "report.msg",
+      "type": "java.lang.String",
+      "sourceType": "properties.ReportProperties"
+    }
+  ],
+  "hints": []
+}
